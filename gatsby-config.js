@@ -5,8 +5,8 @@ require('dotenv').config();
 const { ACCESS_TOKEN, SPACE_ID, ANALYTICS_ID } = process.env;
 
 const client = contentful.createClient({
-  space: o4kkbwgrki78,
-  accessToken: jgkSRmkRasecGEvsMTfRHOdfvih_hto9v7GWwveQc2s,
+  space: SPACE_ID,
+  accessToken: ACCESS_TOKEN,
 });
 
 const getAboutEntry = entry => entry.sys.contentType.sys.id === 'about';
