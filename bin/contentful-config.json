@@ -639,21 +639,19 @@
       },
       "fields": {
         "name": {
-          "en-US": "Mate"
+          "pt-BR": "Mate"
         },
         "description": {
-          "en-US": "Gatsby v2 starter to create a top notch portfolio!"
+          "pt-BR": "Gatsby v2 starter to create a top notch portfolio!"
         },
         "roles": {
-          "en-US": [
-            "Quick setup 🚀",
-            "Responsive 📱",
-            "PWA ✨",
-            "Contentful CMS 🔧"
+          "pt-BR": [
+            "Quick setup :gift_heart:",
+            "Responsive 📱"
           ]
         },
         "socialLinks": {
-          "en-US": [
+          "pt-BR": [
             {
               "sys": {
                 "type": "Link",
@@ -685,7 +683,7 @@
           ]
         },
         "profile": {
-          "en-US": {
+          "pt-BR": {
             "sys": {
               "type": "Link",
               "linkType": "Asset",
@@ -694,13 +692,13 @@
           }
         },
         "aboutMe": {
-          "en-US": "Hello 👋 I'm Mate a gatsby starter which is focus on simplicity and extensibility. It's build with Gatsby(duh), [Rebass](https://jxnblk.com/rebass/) (styled-component system) and [Contentful](https://www.contentful.com/).\n\nThe starter will give you 4 sections (it's really easy to add more if you want 😃):\n* [Landing:](#home) Displays a nice greeting with your name, also your roles (what you  are) and all your social links.\n* [About:](#about) Show the about section where you can write about who you are, what you like to do, etc. Also you can add a photo next to it!\n* [Project:](#projects) Displays a card for all your project that you've made and also the posibility to link with github or and external link.\n* [Writting:](#writting) Take the information about your medium user and show up to 6 stories as cards with the link to Medium."
+          "pt-BR": "Hello 👋 I'm Mate a gatsby starter which is focus on simplicity and extensibility. It's build with Gatsby(duh), [Rebass](https://jxnblk.com/rebass/) (styled-component system) and [Contentful](https://www.contentful.com/).\n\nThe starter will give you 4 sections (it's really easy to add more if you want 😃):\n* [Landing:](#home) Displays a nice greeting with your name, also your roles (what you  are) and all your social links.\n* [About:](#about) Show the about section where you can write about who you are, what you like to do, etc. Also you can add a photo next to it!\n* [Project:](#projects) Displays a card for all your project that you've made and also the posibility to link with github or and external link.\n* [Writting:](#writting) Take the information about your medium user and show up to 6 stories as cards with the link to Medium."
         },
         "mediumUser": {
-          "en-US": "@mate.starter"
+          "pt-BR": "@mate.starter"
         },
         "projects": {
-          "en-US": [
+          "pt-BR": [
             {
               "sys": {
                 "type": "Link",
@@ -782,13 +780,13 @@
       },
       "fields": {
         "name": {
-          "en-US": "Github"
+          "pt-BR": "Github"
         },
         "url": {
-          "en-US": "https://github.com/EmaSuriano/gatsby-starter-mate/blob/master/README.md"
+          "pt-BR": "https://github.com/EmaSuriano/gatsby-starter-mate/blob/master/README.md"
         },
         "fontAwesomeIcon": {
-          "en-US": "github"
+          "pt-BR": "github"
         }
       }
     },
@@ -848,13 +846,13 @@
       },
       "fields": {
         "name": {
-          "en-US": "Google"
+          "pt-BR": "Google"
         },
         "publishedDate": {
-          "en-US": "1998-06-19T00:00+02:00"
+          "pt-BR": "1998-06-19T00:00+02:00"
         },
         "logo": {
-          "en-US": {
+          "pt-BR": {
             "sys": {
               "type": "Link",
               "linkType": "Asset",
@@ -863,16 +861,16 @@
           }
         },
         "repositoryUrl": {
-          "en-US": "https://github.com/google"
+          "pt-BR": "https://github.com/google"
         },
         "description": {
-          "en-US": "It is the most-used search engine on the World Wide Web, handling more than three billion searches each day."
+          "pt-BR": "It is the most-used search engine on the World Wide Web, handling more than three billion searches each day."
         },
         "projectUrl": {
-          "en-US": "https://www.google.com/"
+          "pt-BR": "https://www.google.com/"
         },
         "type": {
-          "en-US": "Web"
+          "pt-BR": "Web"
         }
       }
     },
@@ -932,13 +930,13 @@
       },
       "fields": {
         "name": {
-          "en-US": "Gatsby JS"
+          "pt-BR": "Gatsby JS"
         },
         "publishedDate": {
-          "en-US": "2016-09-01T00:00+02:00"
+          "pt-BR": "2016-09-01T00:00+02:00"
         },
         "logo": {
-          "en-US": {
+          "pt-BR": {
             "sys": {
               "type": "Link",
               "linkType": "Asset",
@@ -947,16 +945,16 @@
           }
         },
         "repositoryUrl": {
-          "en-US": "https://github.com/gatsbyjs/gatsby"
+          "pt-BR": "https://github.com/gatsbyjs/gatsby"
         },
         "description": {
-          "en-US": " Gatsby is a React-based, GraphQL powered, static site generator. Overall think, part Jekyll, part create-react-app."
+          "pt-BR": " Gatsby is a React-based, GraphQL powered, static site generator. Overall think, part Jekyll, part create-react-app."
         },
         "projectUrl": {
-          "en-US": "https://www.gatsbyjs.org/"
+          "pt-BR": "https://www.gatsbyjs.org/"
         },
         "type": {
-          "en-US": "Framework"
+          "pt-BR": "Framework"
         }
       }
     },
@@ -1016,13 +1014,13 @@
       },
       "fields": {
         "name": {
-          "en-US": "Facebook"
+          "pt-BR": "Facebook"
         },
         "publishedDate": {
-          "en-US": "2004-09-01T00:00+02:00"
+          "pt-BR": "2004-09-01T00:00+02:00"
         },
         "logo": {
-          "en-US": {
+          "pt-BR": {
             "sys": {
               "type": "Link",
               "linkType": "Asset",
@@ -1031,16 +1029,16 @@
           }
         },
         "repositoryUrl": {
-          "en-US": "https://github.com/facebook"
+          "pt-BR": "https://github.com/facebook"
         },
         "description": {
-          "en-US": "Facebook is a popular free social networking website that allows registered users to keep in touch with friends."
+          "pt-BR": "Facebook is a popular free social networking website that allows registered users to keep in touch with friends."
         },
         "projectUrl": {
-          "en-US": "http://facebook.com/"
+          "pt-BR": "http://facebook.com/"
         },
         "type": {
-          "en-US": "Web"
+          "pt-BR": "Web"
         }
       }
     },
@@ -1100,13 +1098,13 @@
       },
       "fields": {
         "name": {
-          "en-US": "Medium"
+          "pt-BR": "Medium"
         },
         "url": {
-          "en-US": "https://medium.com/@emasuriano"
+          "pt-BR": "https://medium.com/@emasuriano"
         },
         "fontAwesomeIcon": {
-          "en-US": "medium"
+          "pt-BR": "medium"
         }
       }
     },
@@ -1166,13 +1164,13 @@
       },
       "fields": {
         "name": {
-          "en-US": "Contact me"
+          "pt-BR": "Contact me"
         },
         "url": {
-          "en-US": "https://emanuelsuriano.typeform.com/to/OeETl6"
+          "pt-BR": "https://emanuelsuriano.typeform.com/to/OeETl6"
         },
         "fontAwesomeIcon": {
-          "en-US": "envelope"
+          "pt-BR": "envelope"
         }
       }
     },
@@ -1232,13 +1230,13 @@
       },
       "fields": {
         "name": {
-          "en-US": "Twitter"
+          "pt-BR": "Twitter"
         },
         "url": {
-          "en-US": "https://twitter.com/emasuriano"
+          "pt-BR": "https://twitter.com/emasuriano"
         },
         "fontAwesomeIcon": {
-          "en-US": "twitter"
+          "pt-BR": "twitter"
         }
       }
     }
@@ -1293,13 +1291,13 @@
       },
       "fields": {
         "title": {
-          "en-US": "Google Logo"
+          "pt-BR": "Google Logo"
         },
         "description": {
-          "en-US": "Logo from Google"
+          "pt-BR": "Logo from Google"
         },
         "file": {
-          "en-US": {
+          "pt-BR": {
             "url": "//images.ctfassets.net/ntiequ7mc6q6/3AorRmtWOsGQ4o8gK0YWKG/bafdc9f6551a2b487fe0126158630b27/google_PNG19630.png",
             "details": {
               "size": 39228,
@@ -1363,13 +1361,13 @@
       },
       "fields": {
         "title": {
-          "en-US": "Gatsby logo"
+          "pt-BR": "Gatsby logo"
         },
         "description": {
-          "en-US": "Gatsby logo"
+          "pt-BR": "Gatsby logo"
         },
         "file": {
-          "en-US": {
+          "pt-BR": {
             "url": "//images.ctfassets.net/ntiequ7mc6q6/6rkOXCpyvuekYIgy6U6gGu/9369860d91a93b58c949fedfc8967703/1_t5EnAu3eSWJA0rmZ9v3xuw.png",
             "details": {
               "size": 111702,
@@ -1433,13 +1431,13 @@
       },
       "fields": {
         "title": {
-          "en-US": "Facebook logo"
+          "pt-BR": "Facebook logo"
         },
         "description": {
-          "en-US": "Facebook logo"
+          "pt-BR": "Facebook logo"
         },
         "file": {
-          "en-US": {
+          "pt-BR": {
             "url": "//images.ctfassets.net/ntiequ7mc6q6/u3Um4zkMrAaQioyq4oSIW/876e172d31bbc05ab2599e77188ea545/600px-Facebook_logo__28square_29.png",
             "details": {
               "size": 13209,
@@ -1503,13 +1501,13 @@
       },
       "fields": {
         "title": {
-          "en-US": "Mate Logo"
+          "pt-BR": "Mate Logo"
         },
         "description": {
-          "en-US": "Mate Logo"
+          "pt-BR": "Mate Logo"
         },
         "file": {
-          "en-US": {
+          "pt-BR": {
             "url": "//images.ctfassets.net/ntiequ7mc6q6/6nf3rNaaVaUqYcoAcciSeC/4433ecac61b8aa767edd9e11739bb30a/Mate_Logo.png",
             "details": {
               "size": 52527,
@@ -1528,7 +1526,7 @@
   "locales": [
     {
       "name": "English (United States)",
-      "code": "en-US",
+      "code": "pt-BR",
       "fallbackCode": null,
       "default": true,
       "contentManagementApi": true,
